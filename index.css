@@ -1,0 +1,36 @@
+/* Write your code here. */
+.main-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  width: 80%;
+}
+
+.bg-color1 {
+  background-color: #0b69ff;
+  margin: 10px;
+}
+.bg-color2 {
+  background-color: #2dca73;
+  margin: 10px;
+}
+.bg-color3 {
+  background-color: #ffb800;
+  margin: 10px;
+}
+.bg-color4 {
+  background-color: #ff0b37;
+  margin: 10px;
+}
+
+.img-size {
+  width: 20px;
+  height: 20px;
+  padding: 15px;
+}
+
+.notification-text {
+  color: white;
+  font-size: 15px;
+}
