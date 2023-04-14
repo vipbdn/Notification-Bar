@@ -4,7 +4,7 @@
   justify-content: flex-start;
   align-items: center;
 
-  width: 80%;
+  width: 60%;
 }
 
 .bg-color1 {
@@ -33,4 +33,15 @@
 .notification-text {
   color: white;
   font-size: 15px;
+}
+
+.head {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }

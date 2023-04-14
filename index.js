@@ -9,7 +9,8 @@ const Notification = (props) => {
 };
 
 const element = (
-  <div>
+  <div className="container">
+    <h1 className="head">Notifcation</h1>
     <Notification
       className="main-container bg-color1"
       url="https://assets.ccbp.in/frontend/react-js/primary-icon-img.png"
